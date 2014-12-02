@@ -1,0 +1,10 @@
+{
+    "Name" : "Queued Custom Type",
+    "ShortDescription" : "The Queued Custom Type example shows how to send custom types between threads with queued signals and slots.",
+    "DownloadLocation" : "https://api.github.com/repos/marcobubke/queuedcustomtype/zipball/master",
+    "Icon" : "core.png",
+    "Id" : 4,
+    "Tags" : "core signal slot thread advanced",
+    "ProjectFile" : "queuedcustomtype.pro",
+    "LongDescription" : "<p>In the Custom Type Example, we showed how to integrate custom types with the meta-object system, enabling them to be stored in QVariant objects, written out in debugging information and used in signal-slot communication. In this example, we create a new value class, Block, and register it with the meta-object system to enable us to send instances of it between threads using queued signals and slots.</p>"
+}
