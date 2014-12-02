@@ -1,7 +1,7 @@
 {
     "Name" : "Queued Custom Type",
     "ShortDescription" : "The Queued Custom Type example shows how to send custom types between threads with queued signals and slots.",
-    "DownloadLocation" : "https://api.github.com/repos/marcobubke/queuedcustomtype/zipball/master",
+    "DownloadLocation" : "https://api.github.com/repos/marcobubke/queuedcustomtype/zipball/02639caad6b09e412a7dfc41e6c1768383359e56",
     "Icon" : "core.png",
     "Id" : 4,
     "Tags" : "core signal slot thread advanced",
